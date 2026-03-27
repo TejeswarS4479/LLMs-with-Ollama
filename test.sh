@@ -1,3 +1,2 @@
 echo 'GITHUB_TOKEN=github_pat_11AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA' > config.env
-git add config.env
-git commit -m "test: checking push protection"
+echo 'token = "github_pat_11ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz0123456789AB"' > secrets.py
