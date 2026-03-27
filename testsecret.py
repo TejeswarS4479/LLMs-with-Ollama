@@ -1,3 +1,3 @@
 # test_secret.py
-api_token = "ghp_123456789012345678901234567890123456"
-print("Using API token:", api_token)   
+api_key = "ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890"   
+print("Using API token:", api_key)   
